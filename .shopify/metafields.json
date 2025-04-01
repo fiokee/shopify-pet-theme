@@ -1,0 +1,175 @@
+{
+  "article": [],
+  "blog": [],
+  "collection": [],
+  "company": [],
+  "company_location": [],
+  "location": [],
+  "market": [],
+  "order": [],
+  "page": [],
+  "product": [
+    {
+      "key": "recommended-age-group",
+      "namespace": "shopify",
+      "name": "Recommended age group",
+      "description": "Identifies the suitable age range for a product, typically toys and games; e.g. babies, teens",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "toy-game-material",
+      "namespace": "shopify",
+      "name": "Toy/Game material",
+      "description": "Identifies the main material used in a toy or game, such as plastic or wood",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "doll-playset-features",
+      "namespace": "shopify",
+      "name": "Doll/Playset features",
+      "description": "Describes special characteristics of dolls or playsets, like articulated joints or collectible",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "color-pattern",
+      "namespace": "shopify",
+      "name": "Color",
+      "description": "Defines the primary color or pattern, such as blue or striped",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "dog-age-group",
+      "namespace": "shopify",
+      "name": "Dog age group",
+      "description": "Helps sort dog supplies according to the dog's life stage, e.g. puppy, senior",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "dog-toy-type",
+      "namespace": "shopify",
+      "name": "Dog toy type",
+      "description": "Classifies the type of dog toy, such as plush or squeaky",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "material",
+      "namespace": "shopify",
+      "name": "Material",
+      "description": "Defines a product's primary material, such as cotton or wool",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "shape",
+      "namespace": "shopify",
+      "name": "Shape",
+      "description": "Describes the geometric form or shape of a product, such as round or heart",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "suitable-space",
+      "namespace": "shopify",
+      "name": "Suitable space",
+      "description": "Defines the ideal location for product use, e.g. indoors, above ground",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "animal-type",
+      "namespace": "shopify",
+      "name": "Animal type",
+      "description": "Specifies the type of animal a product is intended for, such as ducks, deer, or dogs",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "suitable-for-breed-size",
+      "namespace": "shopify",
+      "name": "Suitable for breed size",
+      "description": "Identifies the appropriate breed size for pet products, such as large or medium",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "pet-dietary-requirements",
+      "namespace": "shopify",
+      "name": "Pet dietary requirements",
+      "description": "Defines the nutritional benefits provided by a pet product, such as weight control or dental health",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "pet-food-flavor",
+      "namespace": "shopify",
+      "name": "Pet food flavor",
+      "description": "Specifies the taste profile of pet food products, e.g. banana, turkey",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "pet-food-form",
+      "namespace": "shopify",
+      "name": "Pet food form",
+      "description": "Indicates the consistency of pet food products, such as wet or dry",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "package-type",
+      "namespace": "shopify",
+      "name": "Package type",
+      "description": "Defines the type of packaging for a product, e.g. jar, pump",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "furniture-fixture-material",
+      "namespace": "shopify",
+      "name": "Furniture/Fixture material",
+      "description": "Identifies the main material used in furniture or fixtures, like wood or metal",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    }
+  ],
+  "variant": [],
+  "shop": []
+}

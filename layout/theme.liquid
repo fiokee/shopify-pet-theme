@@ -1,0 +1,19 @@
+<html>
+    <head>
+    
+    {{content_for_header}}
+
+    {{ 'theme.css' |  asset_url |  stylesheet_tag }}
+
+    </head>
+    <body>
+    
+        {% comment %} {% section 'header' %} {% endcomment %}
+        <main id="main" role="main">
+            {{content_for_layout}}
+            </main>
+        
+
+        
+    </body>
+</html>
