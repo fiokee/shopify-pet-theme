@@ -9,9 +9,27 @@
       },
       "header":{
         "type": "header"
-      }
+      },
+
+      "two-images": {
+        "type": "two-images",
+        "settings": {}
+      },
+      "more-info": {
+        "type": "more-info",
+        "settings": {}
+      },
+      "all-collections": {
+        "type": "all-collections",
+        "settings": {}
+      },
+      "all-products": {
+        "type": "all-products",
+        "settings": {}
+      },
+      
     },
     
-    "order": ["announcement", "header", "banner", ],
+    "order": ["announcement", "header", "banner", "two-images", "more-info", "all-collections", "all-products" ],
   }
   
