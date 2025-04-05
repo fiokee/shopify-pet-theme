@@ -27,9 +27,14 @@
         "type": "all-products",
         "settings": {}
       },
+
+      
+      "footer":{
+        "type": "footer"
+      },
       
     },
     
-    "order": ["announcement", "header", "banner", "two-images", "more-info", "all-collections", "all-products" ],
+    "order": ["announcement", "header", "banner", "two-images", "more-info", "all-collections", "all-products", "footer" ],
   }
   
